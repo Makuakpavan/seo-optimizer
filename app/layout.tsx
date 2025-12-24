@@ -32,7 +32,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <h1>Maku</h1>
+        <h2>Maku</h2>
         {children}
       </body>
     </html>
